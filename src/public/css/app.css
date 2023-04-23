@@ -6,6 +6,26 @@
   display: flex;
   margin: 15px;
   justify-content: space-around;
+  display: flex;
+  flex-direction: wrap;
+}
+
+.form-control {
+  margin-left: 15px;
+  width: 250px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.active {
+  margin-left: 15px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
 }
 
 /*# sourceMappingURL=app.css.map */
